@@ -6,7 +6,7 @@ description: >
   providing documentation and blog post pages.
 lang: en-US
 
-baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: https://jsnetsec.github.com # the base hostname & protocol for your site
 git_address: https://jsnetsec.github.com
 git_edit_address: https://github.com/jsnetsec/jsnetsec.github.io/blob/gh-pages
